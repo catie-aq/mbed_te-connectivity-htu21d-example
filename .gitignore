@@ -2,4 +2,9 @@
 projectfiles
 *.py*
 
+BUILD
+.mbed
+mbed-os
+zest-core-mtxdot
+te-connectivity-htu21d
 # Do NOT ignore files below

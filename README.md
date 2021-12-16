@@ -4,25 +4,27 @@ TE-Connectivity HTU21D(F) driver usage example
 ## Requirements
 ### Hardware requirements
 The following boards are required:
-- *List TE-Connectivity HTU21D(F) driver usage example hardware requirements here*
+- Zest Sensor T-RH
+- Zest Core MTXDot
 
 ### Software requirements
 TE-Connectivity HTU21D(F) driver usage example makes use of the following libraries (automatically
 imported by `mbed deploy` or `mbed import`):
-- *List TE-Connectivity HTU21D(F) driver usage example software requirements here*
+- te-connectivity-htu21d
+- zest-core-mtxdot
 
 ## Usage
 To clone **and** deploy the project in one command, use `mbed import` and skip to the
 target enabling instructions:
 ```shell
-mbed import https://gitlab.com/sixtron/te-connectivity-htu21d-example.git te-connectivity-htu21d-example
+mbed import https://gitlab.com/koncepto/CATIE/3sqair/software/te-connectivity-htu21d-example.git te-connectivity-htu21d-example
 ```
 
 Alternatively:
 
 - Clone to "te-connectivity-htu21d-example" and enter it:
   ```shell
-  git clone https://gitlab.com/sixtron/te-connectivity-htu21d-example.git te-connectivity-htu21d-example
+  git clone https://gitlab.com/koncepto/CATIE/3sqair/software/te-connectivity-htu21d-example.git te-connectivity-htu21d-example
   cd te-connectivity-htu21d-example
   ```
 
